@@ -1,0 +1,4 @@
+Dowload Xampp
+create a database and name it pharmatrust_db
+import the sql file into the database
+open this link http://localhost/pharmatrust
